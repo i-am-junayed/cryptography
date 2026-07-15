@@ -1,4 +1,4 @@
-# cryptography-
+# cryptography
 Cryptography Algorithms
 
 Implementations of classic cryptographic algorithms written from scratch in Python, with no external crypto libraries (`cryptography`, `pycryptodome`, `hashlib`, etc.) — every table, S-box, and transformation is coded by hand.
